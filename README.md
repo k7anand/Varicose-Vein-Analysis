@@ -1,5 +1,5 @@
 # Varicose-Vein-Analysis
-Utilizing R for data analysis and visualization, this project investigates the relationships between patient status and various factors, providing insights into the significant associations and correlations that can inform healthcare decisions. The analysis is based on a dataset provided by Professor Hossein Abouee Mehrizi for the Operations Analytics course (MSE 719) in the Management Science and Engineering department at the University of Waterloo. 
+Utilizing R for data analysis and visualization, this project investigates the relationships between patient status and various factors, providing insights into the significant associations and correlations that can inform healthcare decisions. The analysis is based on a dataset provided by Professor Hossein Abouee Mehrizi for the Operations Analytics course (MSE 719) in the Management Science and Engineering department at the University of Waterloo for academic purposes only. 
 
 Despite its prevalence, varicose vein disease remains poorly understood, with limited research on the relationships between demographic factors and disease status. This analysis aims to fill this knowledge gap by exploring the associations between varicose vein status and gender, parental history, and age, providing a foundation for future research and improved disease management.
 
