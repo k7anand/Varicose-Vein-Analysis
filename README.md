@@ -31,5 +31,5 @@ Acknowledgments
 - Dataset provided by Professor Hossein Abouee Mehrizi for the Operations Analytics course.
 
 Conclusion
-` While this analysis provides valuable insights into the relationships between varicose vein status and demographic factors, it is not without limitations. Future research should aim to address these limitations by exploring additional risk factors, incorporating larger and more diverse datasets, and developing more advanced analytical models. By continuing to investigate varicose vein disease, we can work towards improving patient outcomes and reducing the burden of this condition.
+- While this analysis provides valuable insights into the relationships between varicose vein status and demographic factors, it is not without limitations. Future research should aim to address these limitations by exploring additional risk factors, incorporating larger and more diverse datasets, and developing more advanced analytical models. By continuing to investigate varicose vein disease, we can work towards improving patient outcomes and reducing the burden of this condition.
 
